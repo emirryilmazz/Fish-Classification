@@ -12,7 +12,7 @@ Since the bootcamp's requirement was to use **only ANN architectures**, this pro
 - **Name**: A Large Scale Fish Dataset  
 - **Directory Path**: `/kaggle/input/a-large-scale-fish-dataset/Fish_Dataset/Fish_Dataset`  
 - **Classes**: 9 fish types, 1000 instances each fish class.
-- **Size**: 
+- **Size**: 3 GB
 
 ## 📦 Libraries Used
 - **TensorFlow/Keras** for building the model
