@@ -44,3 +44,6 @@ The project follows a **simple ANN architecture**:
 The model achieved promising results with improved validation accuracy using **-1, 1 scaling** compared to [0, 1] normalization.
 Finally, it climbed to ~0.92 accuracy points.
 
+## 🚀 How to Inspect
+**Click the link below**: https://www.kaggle.com/code/emiryilmazey/akbank-deep-learning-bootcamp
+**Or inspect main.ipynb from github**
