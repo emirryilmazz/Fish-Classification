@@ -45,5 +45,5 @@ The model achieved promising results with improved validation accuracy using **-
 Finally, it climbed to ~0.92 accuracy points.
 
 ## 🚀 How to Inspect
-**Click the link below**: https://www.kaggle.com/code/emiryilmazey/akbank-deep-learning-bootcamp
-**Or inspect main.ipynb from github**
+-**Click the link below**: https://www.kaggle.com/code/emiryilmazey/akbank-deep-learning-bootcamp
+-**Or inspect main.ipynb from github**
